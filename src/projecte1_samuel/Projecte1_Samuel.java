@@ -12,6 +12,7 @@ public class Projecte1_Samuel {
         System.out.println("Jorge");
         
         System.out.println("Maria");
+        System.out.println("Rama");
     }
     
 }
