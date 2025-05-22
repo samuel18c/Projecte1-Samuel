@@ -10,6 +10,8 @@ public class Projecte1_Samuel {
         System.out.println("Hola");
         System.out.println("Adeu");
         System.out.println("Jorge");
+        
+        System.out.println("Maria");
     }
     
 }
